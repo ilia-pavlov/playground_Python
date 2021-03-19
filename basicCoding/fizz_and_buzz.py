@@ -1,5 +1,5 @@
 def fizz_buzz(number):
-    if number % 2 and number % 3 == 0:
+    if number % 2 == 0 and number % 3 == 0:
         print("FizzBuzz " + str(number))
     elif number % 2 == 0:
         print("buzz " + str(number))
@@ -9,4 +9,4 @@ def fizz_buzz(number):
         print(number)
 
 
-fizz_buzz(11)
+fizz_buzz(int(input("choose the number :  ")))
