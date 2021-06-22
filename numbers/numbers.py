@@ -8,4 +8,3 @@ print(sorted(numbers))
 
 numbers.sort(reverse=True)
 print(numbers)
-
