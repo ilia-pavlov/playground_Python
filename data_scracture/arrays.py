@@ -1,4 +1,4 @@
-# array like list but for more then 10.000 modules
+# array like list but for more then 10.000 ecommerce
 # check python 3 typecode
 
 from array import array
